@@ -6,7 +6,7 @@ import sun.applet.Main;
  * @Version 1.0
  */
 public class test1 {
-    //wlb改了还看了
+    //wlb改了还看了666
     public static void main(String[] args) {
         System.out.println("hello git!");
     }
