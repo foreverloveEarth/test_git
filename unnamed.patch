@@ -1,0 +1,21 @@
+Index: src/main/java/test1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/test1.java	(revision a7b51f782e2de04fdfebac14df26cf3c2cfa9da4)
++++ src/main/java/test1.java	(date 1542185562440)
+@@ -1,12 +1,10 @@
+-import sun.applet.Main;
+-
+ /**
+  * @Author earth
+  * @Time 2018/11/14 16:47
+  * @Version 1.0
+  */
+ public class test1 {
+-    //qweqweqeq
++    //wlb改了
+     public static void main(String[] args) {
+         System.out.println("hello git!");
+     }
