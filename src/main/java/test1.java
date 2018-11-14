@@ -12,6 +12,7 @@ public class test1 {
     public static int sum(int a,int b){
         System.out.println(a+b);
         //哈哈哈哈哈哈哈
+        //哈你个鸡儿
         return a+b;
 
     }
